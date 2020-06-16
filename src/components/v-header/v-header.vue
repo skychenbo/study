@@ -163,5 +163,5 @@
       width: 100%
       height: 100%
       z-index: -1
-      filtee: blur(10px)
+      filter: blur(10px)
 </style>
